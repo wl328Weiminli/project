@@ -1,8 +1,8 @@
 # project
 
 # Team member
-* Weimin li
-* jiaxin Du
+* Jiaxin Du
+* Weimin LI
 
 
 ## To do list
@@ -10,6 +10,9 @@
    - [x] Weimin added Tutorial page
    - [ ] this is an incomplete item
 
+<font color=#FF0000>hahahhahahahahhahahahahh</font>
+
+    git clone <repo link>
 
 
 
